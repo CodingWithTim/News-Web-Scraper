@@ -1,0 +1,3 @@
+# News Web Scraper
+
+## A little about this project...
